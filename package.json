@@ -1,0 +1,27 @@
+{
+  "name": "mibew-gulp-greh",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp-util": "^3.0.5",
+    "through2": "^0.6.5"
+  },
+  "description": "Gulp plugin to remove extra headers from compiled js files during the build process of Mibew Messenger app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/faf/mibew-gulp-greh.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "mibew"
+  ],
+  "author": {
+    "name": "Fedor A. Fetisov",
+    "email": "fedor.fetisov@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faf/mibew-gulp-greh/issues"
+  },
+  "homepage": "https://github.com/faf/mibew-gulp-greh"
+}
